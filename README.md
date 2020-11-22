@@ -1,4 +1,5 @@
 ## Synopsis
+CLONED FOR DIDACTIC PURPOSES
 
 In this article we're going to learn how to build an OAuth service that can be used as a way to authenticate calls to an API or within a microservices architecture.  In this project we will be using Python, Flask, Postgres and JWT
 
